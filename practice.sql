@@ -4,3 +4,6 @@ Select salary from employess;
 
 -- Dispay all the details of the table employees
 Select * from employees;
+
+
+-- Create a table employee
