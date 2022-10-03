@@ -56,8 +56,6 @@ int main()
         printf("%d %c %d = %d\n", Q.num1, Q.operator, Q.num2, ans);
     }
     
-    close(sockfd);
-
-    
+    close(sockfd);  
     return 0;
 }
